@@ -2,7 +2,6 @@
     position: relative;
     
     z-index:1;
-    overflow:hidden; /*if you want to crop the image*/
     
     border-radius: 0 0 20px 20px;
 }
